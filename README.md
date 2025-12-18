@@ -1,7 +1,7 @@
 <a href="https://www.packtpub.com/en-us/unlock"><img src="https://drive.google.com/uc?export=view&id=1lQCTQQ8iV5pGuPA1n5wuds-3pwJi0OD_"></a>
 <h1 align="center">
 Workflow Automation with Microsoft Power Automate, Third Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/workflow-automation-with-microsoft-power-automate-third-edition/9781836649632"> Workflow Automation with Microsoft Power Automate, Third Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/workflow-automation-with-microsoft-power-automate-9781836649625"> Workflow Automation with Microsoft Power Automate, Third Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
@@ -22,7 +22,7 @@ Aaron Guilmette</p>
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/workflow-automation-with-microsoft-power-automate-third-edition/9781836649632">
+<a href="https://www.packtpub.com/en-us/product/workflow-automation-with-microsoft-power-automate-9781836649625">
 <img src="https://content.packt.com/B31726/cover_image_small.jpg" alt="Workflow Automation with Microsoft Power Automate, Third Edition" height="256px" align="right">
 </a>
 
