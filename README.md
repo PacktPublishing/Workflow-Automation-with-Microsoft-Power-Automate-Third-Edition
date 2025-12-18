@@ -121,7 +121,7 @@ Written by a Microsoft 365 expert, this third edition adds 8 new chapters along 
 
 <details open> 
   <summary><h2>Requirements for this book</summary>
-To be filled
+You should have a Microsoft 365 subscription with access to a  premium Power Automate plan to enable access to premium connectors, AI models, and Robotic Process Automation (RPA).
   </details>
     
 
@@ -129,7 +129,7 @@ To be filled
 <details> 
   <summary><h2>Get to know Authors</h2></summary>
 
-_Aaron Guilmette_ Aaron Guilmette is a VP of technology, guiding the defense industrial base into the 21st century using modern identity and productivity solutions. Previously, he was a Senior Program Manager for Customer Experience at Microsoft, helping customers adopt the Microsoft 365 platform. He primarily focuses on collaborative and automation technologies, including Microsoft Teams, Exchange Online, Power Automate, and Entra ID. Aaron lives in the Detroit, Michigan area with his five children. When he's not busy solving technical problems, racing his cars around the Midwest, writing, or teaching his kids the dark arts of driving in rush hour traffic, he's making tacos. 
+_Aaron Guilmette_ is a VP of technology, guiding the defense industrial base into the 21st century using modern identity and productivity solutions. Previously, he was a Senior Program Manager for Customer Experience at Microsoft, helping customers adopt the Microsoft 365 platform. He primarily focuses on collaborative and automation technologies, including Microsoft Teams, Exchange Online, Power Automate, and Entra ID. Aaron lives in the Detroit, Michigan area with his five children. When he's not busy solving technical problems, racing his cars around the Midwest, writing, or teaching his kids the dark arts of driving in rush hour traffic, he's making tacos. 
 
 
 
