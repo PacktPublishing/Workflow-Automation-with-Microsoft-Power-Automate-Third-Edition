@@ -138,11 +138,11 @@ _Aaron Guilmette_ is a VP of technology, guiding the defense industrial base int
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/the-power-platform-playbook-for-digital-transformation-first-edition/9781805121398">The Power Platform Playbook for Digital Transformation, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/the-power-platform-playbook-for-digital-transformation-9781805124320">The Power Platform Playbook for Digital Transformation, First Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/microsoft-power-apps-cookbook-third-edition/9781835465158">Microsoft Power Apps Cookbook, Third Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/microsoft-power-apps-cookbook-9781835462485">Microsoft Power Apps Cookbook, Third Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/learn-microsoft-power-apps-second-edition/9781801070645">Learn Microsoft Power Apps, Second Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/learn-microsoft-power-apps-9781801071437">Learn Microsoft Power Apps, Second Edition</a></li>
  
 </ul>
 
